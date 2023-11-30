@@ -1,7 +1,7 @@
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/lvgig/Spark-CodeSpace-Test)
 # Spark-CodeSpace-Test
 
-This repo shows how we could use github codespaces to create a spark environment, and ask spark related questions.
+This repo shows how we could use github codespaces to create a spark environment, and ask sql / spark related questions.
 
 ## Codespaces
 https://docs.github.com/en/codespaces/getting-started/deep-dive
