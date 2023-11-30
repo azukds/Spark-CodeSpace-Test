@@ -1,0 +1,16 @@
+{
+    "name": "Spark Environment",
+    "dockerFile": "../Dockerfile",
+    "settings": { 
+        "terminal.integrated.shell.linux": "/bin/bash"
+    },
+	"postCreateCommand": "echo 'Environment setup complete!'",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-python.python",
+				"ms-toolsai.jupyter"
+			]
+		}
+	}
+}
