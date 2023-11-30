@@ -1,3 +1,4 @@
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/lvgig/Spark-CodeSpace-Test)
 # Spark-CodeSpace-Test
 
 This repo shows how we could use github codespaces to create a spark environment, and ask spark related questions.
@@ -17,3 +18,4 @@ With the *sparksql_magic* jupyter extension this notebook is very similar to the
 
 ## Usage
 To use codespaces with this repo either click the 'Open in GitHub CodeSpaces' badge at the top of this README, or 'Create codespace on main' from the 'Code' button
+![image](https://github.com/lvgig/Spark-CodeSpace-Test/assets/34069335/dc8410d5-c52f-4e38-8b7e-7b135179ebfd)
