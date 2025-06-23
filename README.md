@@ -11,7 +11,7 @@ This will then launch a VSCode instance within your browser will python, pyspark
 ![Example Codespace Image](codespace.png) 
 
 ## AzDETechTest.ipynb
-This is the notebook that you will be working out of, please follow the instructions inside the notebook and work through the questions in the time allocated (20 mins). There will be more information about the tasks inside of the notebook.
+This is the notebook that you will be working out of, please follow the instructions inside the notebook and work through the questions in the time allocated (15 mins coding - 5 mins for discussion at the end). There will be more information about the tasks inside of the notebook.
 
 
 
